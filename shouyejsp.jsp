@@ -7,7 +7,7 @@
 <title>实验室工作界面登录首页</title>
 </head>
 <body>
-hhh
+
 <center>
 <head><strong>实验室工作界面登录首页</strong></head>
 </center>
